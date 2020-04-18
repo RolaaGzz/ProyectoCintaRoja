@@ -1,0 +1,53 @@
+.logo{
+    width:11%;
+    
+}
+h1,h2,h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+h2{
+    font-size: 3rem;
+}
+
+.titulo {
+    font-weight: 700;
+}
+
+.header{
+    background-image: url(./fondo1.jpg) ;
+    background-size: cover;
+    min-height: 30rem;
+}
+.header .nav-link,
+.header .nav-link:hover {
+    color: white;
+}
+
+.buscador {
+   min-height: 25rem
+}
+
+.iconos{
+    width: 80px;
+    height: 80px;
+}
+
+.categoria h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+.clases{
+    background-color: #f5f5f5;
+}
+
+.iconocard{
+    width:3%;
+}
+
+
+
+
+
